@@ -1,4 +1,4 @@
-# Netflix Prize Collaboration Filtering Engine
+# Recommendation Systems for Personalized Content Discovery
 
 A modular, scalable recommendation system engineered for the 100-million-row Netflix Prize Dataset utilizing **Funk SVD Matrix Factorization**.
 
