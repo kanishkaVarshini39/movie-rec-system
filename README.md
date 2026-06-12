@@ -33,6 +33,7 @@ netflix-prize-recommender/
 ├── .gitignore                  # Active binary and dataset filter
 ├── requirements.txt            # Project environment dependencies
 └── Recommendation_system.ipynb # Prototyping and EDA sandbox notebook
+```
 
 ## 🚀 Reproduction & Deployment Guide
 
