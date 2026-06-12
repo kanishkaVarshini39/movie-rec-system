@@ -33,3 +33,25 @@ netflix-prize-recommender/
 ├── .gitignore                  # Active binary and dataset filter
 ├── requirements.txt            # Project environment dependencies
 └── Recommendation_system.ipynb # Prototyping and EDA sandbox notebook
+
+## 🚀 Reproduction & Deployment Guide
+
+Ensure your native source directory holds your downloaded dataset files (`combined_data_1.txt` to `combined_data_4.txt` and `movie_titles.csv`) before running the pipelines.
+
+---
+
+### 1. Initialize Project Environment
+Install all core data structures, matrix optimization libraries, and application dependencies
+
+### 2.Run the Data Preparation Ingestion
+Process the raw source text files, apply the activity filters, and compile them into optimized, compressed Parquet storage formats
+
+### 3.Generate Comparative Validation Reports
+Verify algorithm precision, latency profiles, and ranking scores (Funk SVD vs. KNN) for your documentation metrics on unseen test slices
+
+### 4.Compute and Save the Global Model
+Compile the complete dataset weight parameters and freeze the production model binary to disk
+
+### 5.Launch the Web Application
+Start the backend API service
+Launch the main production orchestration gateway app
